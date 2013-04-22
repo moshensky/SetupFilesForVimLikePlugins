@@ -1,0 +1,6 @@
+"3.7 (created: 2013/04/03 18:20:07)
+
+source! "C:\\Users\\Nikita\\_vimperatorrc.local"
+
+" vim: set ft=vimperator:
+set gui=tabs,navigation

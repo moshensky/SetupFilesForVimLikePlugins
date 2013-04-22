@@ -1,4 +1,7 @@
-SetupFilesForVimLikePlugins
+Setup files for vim like plugins
 ===========================
 
-setup files for plugins for eclipse, VS2012
+Plugins setup files for: 
+* Eclipse (Vrapper) 
+* Visual Studio 2012 (VsVim)
+* Firefox (Vimperator)
