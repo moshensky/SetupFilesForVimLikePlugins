@@ -2,5 +2,13 @@
 
 source! "C:\\Users\\Nikita\\_vimperatorrc.local"
 
+
 " vim: set ft=vimperator:
+
+" show tabs and navigation toolbars in FF
 set gui=tabs,navigation
+
+" ignore case in search patterns
+set ignorecase
+" show were the search pattern matches as it is typed
+set incsearch
