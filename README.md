@@ -5,3 +5,4 @@ Plugins setup files for:
 * Eclipse (Vrapper) 
 * Visual Studio 2012 (VsVim)
 * Firefox (Vimperator)
+* del me please
